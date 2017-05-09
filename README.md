@@ -43,3 +43,6 @@
 ### Distributed Systems
 - [ ] Distributed Systems: Principles and Paradigms
 - [ ] MIT 6.824 course
+
+## Further reading:
+https://github.com/open-source-society/computer-science
